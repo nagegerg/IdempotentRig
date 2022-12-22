@@ -18,8 +18,8 @@ See:  https://mathstodon.xyz/@johncarlosbaez/109544916566242548
  
 Because (1+1)^2 = (1+1), we have 4 = 2, 5 = 3, 6 = 2, 7 = 3, ....
 
-So all elements cn be written as 7-tuples of integers from 0 to 3, which are the coefficients
-for the 7 monomials.
+So all elements can be written as 7-tuples of integers from 0 to 3, which are the
+coefficients for the 7 monomials.
 
 We will sometimes work with 7-tuples of integers, and sometimes with single-integer
 indices from 0 to 4^7-1.
