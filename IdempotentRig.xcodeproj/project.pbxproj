@@ -25,6 +25,7 @@
 /* Begin PBXFileReference section */
 		13C2D70A2952A3B6008AA466 /* IdempotentRig */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = IdempotentRig; sourceTree = BUILT_PRODUCTS_DIR; };
 		13C2D70D2952A3B6008AA466 /* IdempotentRig.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = IdempotentRig.cpp; sourceTree = "<group>"; };
+		13FCD57529541091005050B2 /* IdempotentRig.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = IdempotentRig.txt; path = "../../../Mathematica/MATHS/Abstract Algebra/IdempotentRig.txt"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				13C2D70D2952A3B6008AA466 /* IdempotentRig.cpp */,
+				13FCD57529541091005050B2 /* IdempotentRig.txt */,
 			);
 			path = IdempotentRig;
 			sourceTree = "<group>";
